@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>x_729438_load_brok.broker_admin,x_729438_load_brok.broker_driver,x_729438_load_brok.broker_customer,admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-20 19:55:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9afc317f97911910e2ce32f6f053afb1</sys_id>
+        <sys_name>Load Broker Pro</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope>
+        <sys_update_name>sys_app_application_9afc317f97911910e2ce32f6f053afb1</sys_update_name>
+        <title>Load Broker Pro</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

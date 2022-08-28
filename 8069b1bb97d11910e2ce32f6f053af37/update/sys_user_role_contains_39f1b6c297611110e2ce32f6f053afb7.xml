@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</contains>
+        <role display_value="x_729438_load_brok.broker_driver" name="x_729438_load_brok.broker_driver">1ac9397397151910e2ce32f6f053af6b</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-27 23:33:48</sys_created_on>
+        <sys_id>39f1b6c297611110e2ce32f6f053afb7</sys_id>
+        <sys_name>itil.x_729438_load_brok.broker_driver</sys_name>
+        <sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope>
+        <sys_update_name>sys_user_role_contains_39f1b6c297611110e2ce32f6f053afb7</sys_update_name>
+    </sys_user_role_contains>
+</record_update>

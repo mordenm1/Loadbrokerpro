@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-20 19:52:41</sys_created_on>
+        <sys_id>ae3c357797151910e2ce32f6f053af8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_729438_load_brok_load_broker_pro.x_729438_load_brok.broker_admin</sys_name>
+        <sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope>
+        <sys_security_acl display_value="x_729438_load_brok_load_broker_pro">2e3c357797151910e2ce32f6f053af8d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ae3c357797151910e2ce32f6f053af8f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-20 19:52:41</sys_updated_on>
+        <sys_user_role display_value="x_729438_load_brok.broker_admin" name="x_729438_load_brok.broker_admin">82c9f93397151910e2ce32f6f053af58</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</application>
+        <file_path/>
+        <instance_id>565868afdbc7ac10c6e711f84896194f</instance_id>
+        <instance_name>dev108952</instance_name>
+        <name>sys_security_acl_role_ae3c357797151910e2ce32f6f053af8f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-20 19:52:41</sys_created_on><sys_id>ae3c357797151910e2ce32f6f053af8f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_729438_load_brok_load_broker_pro.x_729438_load_brok.broker_admin</sys_name><sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package><sys_policy/><sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope><sys_security_acl display_value="x_729438_load_brok_load_broker_pro">2e3c357797151910e2ce32f6f053af8d</sys_security_acl><sys_update_name>sys_security_acl_role_ae3c357797151910e2ce32f6f053af8f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-20 19:52:41</sys_updated_on><sys_user_role display_value="x_729438_load_brok.broker_admin" name="x_729438_load_brok.broker_admin">82c9f93397151910e2ce32f6f053af58</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1504526541</payload_hash>
+        <record_name>x_729438_load_brok_load_broker_pro.x_729438_load_brok.broker_admin</record_name>
+        <reverted_from/>
+        <source>1469b1bb97d11910e2ce32f6f053af39</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-20 19:52:41</sys_created_on>
+        <sys_id>ee3c357797151910e2ce32f6f053af91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182bcd08fd70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-20 19:52:41</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>2a3c3577bd15191054932c54506bb791</update_guid>
+        <update_guid_history>2a3c3577bd15191054932c54506bb791:-1504526541</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_729438_load_brok_load_broker_pro.x_729438_load_brok.broker_admin">ecd5770d97a11110e2ce32f6f053af82</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-25 01:56:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>6036b4ea544140029b0c9e767d10e151</sys_id>
+        <sys_metadata>ae3c357797151910e2ce32f6f053af8f</sys_metadata>
+        <sys_name>x_729438_load_brok_load_broker_pro.x_729438_load_brok.broker_admin</sys_name>
+        <sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope>
+        <sys_scope_delete display_value="">15545b4d259b48ca91352c96746740d1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_ae3c357797151910e2ce32f6f053af8f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_ae3c357797151910e2ce32f6f053af8f">ee3c357797151910e2ce32f6f053af91</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

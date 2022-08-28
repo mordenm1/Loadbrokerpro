@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_requirements" label="Requirements (Long load, Wide load, Refrigeration, Trailer type, Ect.)" language="en" table="x_729438_load_brok_load_broker_pro">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_requirements</element>
+            <help/>
+            <hint/>
+            <label>Requirements (Long load, Wide load, Refrigeration, Trailer type, Ect.)</label>
+            <language>en</language>
+            <name>x_729438_load_brok_load_broker_pro</name>
+            <plural>Requirements (Long load, Wide load, Refrigeration, Trailer type, Ect.)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-23 02:26:37</sys_created_on>
+            <sys_name>Requirements (Long load, Wide load, Refrigeration, Trailer type, Ect.)</sys_name>
+            <sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope>
+            <sys_update_name>sys_documentation_x_729438_load_brok_load_broker_pro_u_requirements_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

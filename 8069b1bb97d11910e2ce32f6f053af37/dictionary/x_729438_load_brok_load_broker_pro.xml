@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="063c357797151910e2ce32f6f053af4e" display="true" extends="task" label="Load Broker Pro" max_length="40" name="x_729438_load_brok_load_broker_pro" type="collection">
+        <element label="Description" mandatory="true" max_length="4000" name="description_lbp" type="string"/>
+        <element choice="3" default="stock" label="Shipment Priority" mandatory="true" max_length="40" name="shipment_priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Stock" sequence="100" value="stock"/>
+                <element inactive_on_update="false" label="Hot Stock" sequence="200" value="hot_stock"/>
+                <element inactive_on_update="false" label="Priority" sequence="300" value="priority"/>
+                <element inactive_on_update="false" label="Red Freight" sequence="400" value="red_freight"/>
+            </choice>
+        </element>
+        <element choice="3" default="unclaimed" label="Shipment State" mandatory="true" max_length="40" name="shipment_state" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Unclaimed" sequence="100" value="unclaimed"/>
+                <element inactive_on_update="false" label="Claimed" sequence="200" value="claimed"/>
+                <element inactive_on_update="false" label="In-Transit" sequence="300" value="in_transit"/>
+                <element inactive_on_update="false" label="Delivered" sequence="400" value="delivered"/>
+                <element inactive_on_update="false" label="Closed Complete" sequence="500" value="complete"/>
+            </choice>
+        </element>
+        <element label="Short Description" mandatory="true" max_length="160" name="short_description_lbp" type="string"/>
+        <element attributes="encode_utf8=false" label="Contact" mandatory="true" max_length="32" name="u_contact" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Customer" mandatory="true" max_length="32" name="u_customer" reference="core_company" type="reference"/>
+        <element attributes="encode_utf8=false" label="Delivery Location" mandatory="true" max_length="32" name="u_delivery_loc" reference="cmn_location" type="reference"/>
+        <element attributes="encode_utf8=false" label="Departure Location" mandatory="true" max_length="32" name="u_departure_loc" reference="cmn_location" type="reference"/>
+        <element attributes="encode_utf8=false" display="true" label="Driver" max_length="32" name="u_driver" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Requirements (Long load, Wide load, Refrigeration, Trailer type, Ect.)" mandatory="true" max_length="160" name="u_requirements" type="string"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Pay Per Mile" mandatory="true" max_length="20" name="u_trip_pay" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="Approx. Weight" mandatory="true" max_length="40" name="u_weight" type="string"/>
+    </element>
+</database>

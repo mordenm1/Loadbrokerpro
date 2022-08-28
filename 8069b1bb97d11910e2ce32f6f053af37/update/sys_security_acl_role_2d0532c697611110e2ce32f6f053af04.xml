@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-27 23:47:10</sys_created_on>
+        <sys_id>2d0532c697611110e2ce32f6f053af04</sys_id>
+        <sys_name>x_729438_load_brok_lbp_task.x_729438_load_brok.broker_admin</sys_name>
+        <sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope>
+        <sys_security_acl display_value="x_729438_load_brok_lbp_task">250532c697611110e2ce32f6f053af02</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2d0532c697611110e2ce32f6f053af04</sys_update_name>
+        <sys_user_role display_value="x_729438_load_brok.broker_admin" name="x_729438_load_brok.broker_admin">82c9f93397151910e2ce32f6f053af58</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

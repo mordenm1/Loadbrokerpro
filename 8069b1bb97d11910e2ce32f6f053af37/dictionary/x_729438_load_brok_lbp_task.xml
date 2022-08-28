@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fb94364697611110e2ce32f6f053af1d" extends="task" label="LBP Task" max_length="40" name="x_729438_load_brok_lbp_task" type="collection"/>
+</database>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>6</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">e501cbc297a11110e2ce32f6f053afca</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-28 00:39:36</sys_created_on>
+        <sys_id>2d01cbc297a11110e2ce32f6f053afcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope>
+        <sys_update_name>sp_column_2d01cbc297a11110e2ce32f6f053afcc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-28 00:39:36</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</application>
+        <file_path/>
+        <instance_id>565868afdbc7ac10c6e711f84896194f</instance_id>
+        <instance_name>dev108952</instance_name>
+        <name>sp_column_2d01cbc297a11110e2ce32f6f053afcc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>6</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">e501cbc297a11110e2ce32f6f053afca</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-28 00:39:36</sys_created_on><sys_id>2d01cbc297a11110e2ce32f6f053afcc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package><sys_policy/><sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope><sys_update_name>sp_column_2d01cbc297a11110e2ce32f6f053afcc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-28 00:39:36</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-1220013530</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>1469b1bb97d11910e2ce32f6f053af39</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-28 00:39:36</sys_created_on>
+        <sys_id>6901cbc297a11110e2ce32f6f053afce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182e1e3c2b80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-28 00:39:36</sys_updated_on>
+        <type>Column</type>
+        <update_guid>a101cbc2ffa11110e7584dcb936c1fce</update_guid>
+        <update_guid_history>a101cbc2ffa11110e7584dcb936c1fce:-1220013530</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">3e114fc297a11110e2ce32f6f053af0c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-28 00:39:57</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>13e0e89ba4d54f22837896aab9b2a384</sys_id>
+        <sys_metadata>2d01cbc297a11110e2ce32f6f053afcc</sys_metadata>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope>
+        <sys_scope_delete display_value="">15545b4d259b48ca91352c96746740d1</sys_scope_delete>
+        <sys_update_name>sp_column_2d01cbc297a11110e2ce32f6f053afcc</sys_update_name>
+        <sys_update_version display_value="sp_column_2d01cbc297a11110e2ce32f6f053afcc">6901cbc297a11110e2ce32f6f053afce</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
