@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e0e1730997a11110e2ce32f6f053af2e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_group_has_role">
+    <sys_group_has_role action="INSERT_OR_UPDATE">
+        <granted_by/>
+        <group display_value="LBP Admin" name="LBP Admin">939f2f4597a11110e2ce32f6f053afb4</group>
+        <inherits>true</inherits>
+        <role display_value="x_729438_load_brok.broker_admin" name="x_729438_load_brok.broker_admin">82c9f93397151910e2ce32f6f053af58</role>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-25 01:39:07</sys_created_on>
+        <sys_id>e0e1730997a11110e2ce32f6f053af2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-25 01:39:07</sys_updated_on>
+    </sys_group_has_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-28 22:11:51</sys_created_on>
+        <sys_id>1bc8275a97e15110e2ce32f6f053af23</sys_id>
+        <sys_name>Created 2022-08-24 18:39:07</sys_name>
+        <sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope>
+        <sys_update_name>sys_metadata_link_1bc8275a97e15110e2ce32f6f053af23</sys_update_name>
+        <tablename>sys_group_has_role</tablename>
+    </sys_metadata_link>
+</record_update>
