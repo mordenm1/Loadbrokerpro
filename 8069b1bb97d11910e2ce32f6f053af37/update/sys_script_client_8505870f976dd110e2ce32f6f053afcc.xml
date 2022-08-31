@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Make driver field hidden on new records</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+    //Changes driver field to hidden on only new records.
+    if (g_form.isNewRecord()) {
+	g_form.setVisible("u_driver", false);
+    } else {
+		g_form.setVisible("u_driver", true);
+	}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-31 03:33:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8505870f976dd110e2ce32f6f053afcc</sys_id>
+        <sys_name>Make driver field hidden on new records</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope>
+        <sys_update_name>sys_script_client_8505870f976dd110e2ce32f6f053afcc</sys_update_name>
+        <table>x_729438_load_brok_load_broker_pro</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
