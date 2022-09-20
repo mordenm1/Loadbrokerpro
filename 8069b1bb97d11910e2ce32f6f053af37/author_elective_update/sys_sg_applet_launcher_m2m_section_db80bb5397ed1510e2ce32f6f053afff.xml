@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Load Broker Pro">7a2d71f397151910e2ce32f6f053afd2</applet_launcher>
+        <order>20</order>
+        <section display_value="Unclaimed">9780bb5397ed1510e2ce32f6f053affd</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 01:19:38</sys_created_on>
+        <sys_id>db80bb5397ed1510e2ce32f6f053afff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_db80bb5397ed1510e2ce32f6f053afff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-01 01:19:38</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</application>
+        <file_path/>
+        <instance_id>565868afdbc7ac10c6e711f84896194f</instance_id>
+        <instance_name>dev108952</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_db80bb5397ed1510e2ce32f6f053afff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="Load Broker Pro">7a2d71f397151910e2ce32f6f053afd2</applet_launcher><order>20</order><section display_value="Unclaimed">9780bb5397ed1510e2ce32f6f053affd</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-01 01:19:38</sys_created_on><sys_id>db80bb5397ed1510e2ce32f6f053afff</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package><sys_policy/><sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_db80bb5397ed1510e2ce32f6f053afff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-01 01:19:38</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>873258640</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f747a7d697e15110e2ce32f6f053af99</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 01:19:38</sys_created_on>
+        <sys_id>1380fb5397ed1510e2ce32f6f053af02</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182f6a1db960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-01 01:19:38</sys_updated_on>
+        <type>Launcher section mapping</type>
+        <update_guid>5b80fb5324ed151097f9fe71719baf01</update_guid>
+        <update_guid_history>5b80fb5324ed151097f9fe71719baf01:873258640</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 01:22:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>234fb8e7e1954f7e90e236b0fc2c7d44</sys_id>
+        <sys_metadata>db80bb5397ed1510e2ce32f6f053afff</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope>
+        <sys_scope_delete display_value="">15545b4d259b48ca91352c96746740d1</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_db80bb5397ed1510e2ce32f6f053afff</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_db80bb5397ed1510e2ce32f6f053afff">1380fb5397ed1510e2ce32f6f053af02</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

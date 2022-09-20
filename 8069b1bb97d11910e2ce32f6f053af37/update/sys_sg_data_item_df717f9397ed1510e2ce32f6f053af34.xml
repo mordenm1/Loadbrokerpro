@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Open</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="x_729438_load_brok_load_broker_pro">shipment_state!=complete<item display_value="Closed Complete" endquery="false" field="shipment_state" goto="false" newquery="false" operator="!=" or="false" value="complete"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 01:23:44</sys_created_on>
+        <sys_id>df717f9397ed1510e2ce32f6f053af34</sys_id>
+        <sys_name>Open</sys_name>
+        <sys_package display_value="Load Broker Pro" source="x_729438_load_brok">8069b1bb97d11910e2ce32f6f053af37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Load Broker Pro">8069b1bb97d11910e2ce32f6f053af37</sys_scope>
+        <sys_update_name>sys_sg_data_item_df717f9397ed1510e2ce32f6f053af34</sys_update_name>
+        <table>x_729438_load_brok_load_broker_pro</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=df717f9397ed1510e2ce32f6f053af34"/>
+</record_update>
